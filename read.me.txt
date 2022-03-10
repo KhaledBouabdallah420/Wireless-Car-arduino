@@ -1,0 +1,4 @@
+the "Reciever" and "transmete" are for "Hello world" using nrf24l01 you can modify it to use on other things,
+The "Car TRansmeter" and "Car reciever" are for the actual project,
+You can contact me at Bouabdallahkhaledkamel@gmail.com for further information,
+Thanks.
